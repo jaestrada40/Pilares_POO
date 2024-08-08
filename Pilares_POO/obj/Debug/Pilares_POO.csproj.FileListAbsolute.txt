@@ -1,0 +1,7 @@
+C:\Users\jaest\source\repos\Pilares_POO\Pilares_POO\obj\Debug\Pilares_POO.csproj.AssemblyReference.cache
+C:\Users\jaest\source\repos\Pilares_POO\Pilares_POO\obj\Debug\Pilares_POO.csproj.CoreCompileInputs.cache
+C:\Users\jaest\source\repos\Pilares_POO\Pilares_POO\bin\Debug\Pilares_POO.exe.config
+C:\Users\jaest\source\repos\Pilares_POO\Pilares_POO\bin\Debug\Pilares_POO.exe
+C:\Users\jaest\source\repos\Pilares_POO\Pilares_POO\bin\Debug\Pilares_POO.pdb
+C:\Users\jaest\source\repos\Pilares_POO\Pilares_POO\obj\Debug\Pilares_POO.exe
+C:\Users\jaest\source\repos\Pilares_POO\Pilares_POO\obj\Debug\Pilares_POO.pdb
